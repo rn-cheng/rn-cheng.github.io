@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RNCheng.github.io/sitemap.xml
+Sitemap: https://rn-cheng.github.io/sitemap.xml
