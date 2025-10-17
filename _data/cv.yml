@@ -4,7 +4,7 @@
     - name: Full Name
       value: Runan Cheng
     - name: Date of Birth
-      value: 08th August 2000 
+      value: 08th August 2000
     - name: Languages
       value: English, Mandarin
 
@@ -24,7 +24,7 @@
       institution: National University of Singapore, Singapore
       year: 2021 - 2022
       description:
-        - 
+        -
 
 - title: Experience
   type: time_table
